@@ -16,7 +16,7 @@
 		<serenity.version>1.9.26</serenity.version>
 		<serenity.maven.version>1.9.26</serenity.maven.version>
 		<serenity.cucumber.version>1.9.8</serenity.cucumber.version>
-		<apache.poi.version>3.16</apache.poi.version>
+		<apache.poi.version>4.1.1</apache.poi.version>
 		<commons-collections.version>3.2.2</commons-collections.version>
 		<rest.assured.version>3.0.3</rest.assured.version>
 		<json-path.version>2.2.0</json-path.version>
